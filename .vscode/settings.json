@@ -1,0 +1,9 @@
+{
+    "files.autoSave": "afterDelay",
+    "workbench.colorTheme": "Monokai",
+    "workbench.iconTheme": "vs-seti",
+    "workbench.editor.defaultBinaryEditor": "default",
+    "files.associations": {
+        "freertos.h": "c"
+    }
+}
